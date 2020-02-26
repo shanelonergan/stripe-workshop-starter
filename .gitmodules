@@ -4,3 +4,6 @@
 [submodule "back-end-test"]
 	path = back-end-test
 	url = https://github.com/shanelonergan/back-end-stripe-workshop.git
+[submodule "stripe-back-end"]
+	path = stripe-back-end
+	url = https://github.com/shanelonergan/back-end-stripe-workshop.git
