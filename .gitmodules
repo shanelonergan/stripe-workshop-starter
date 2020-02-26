@@ -1,6 +1,0 @@
-[submodule "example-back-end"]
-	path = example-back-end
-	url = https://github.com/shanelonergan/stripe-example-back-end.git
-[submodule "example-front-end"]
-	path = example-front-end
-	url = https://github.com/shanelonergan/stripe-example-front-end.git
